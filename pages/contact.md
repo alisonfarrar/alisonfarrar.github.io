@@ -3,9 +3,11 @@ layout: misc
 title: Contact
 ---
 
-## Email
-alison.e.farrar[at]gmail.com
-## Office
+# Email
+[alison.e.farrar (at) gmail.com](mailto:alison.e.farrar@gmail.com)
+# Twitter
+[@alisonefarrar](https://twitter.com/alisonefarrar)
+# Office
 Interdisciplinary Biosciences Doctoral Training Program\
 1-4 Keble Road\
 Oxford\
