@@ -4,7 +4,7 @@ title: Contact
 ---
 
 # Email
-[alison.e.farrar (at) gmail.com](mailto:alison.e.farrar@gmail.com)
+alison.e.farrar [at] gmail.com
 # Twitter
 [@alisonefarrar](https://twitter.com/alisonefarrar)
 # Office
