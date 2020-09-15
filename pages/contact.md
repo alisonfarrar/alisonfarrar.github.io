@@ -10,5 +10,4 @@ Interdisciplinary Biosciences Doctoral Training Program
 1-4 Keble Road
 Oxford
 OX1 3NP
-
-image: 'map.jpeg'
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
