@@ -2,7 +2,7 @@
 layout: misc
 title: Contact
 ---
-
+Reach out to chat!
 # Email
 alison.e.farrar [at] gmail.com
 # Twitter
