@@ -12,3 +12,5 @@ alison.e.farrar [at] gmail.com
 1-4 Keble Road\
 Oxford\
 OX1 3NP](https://goo.gl/maps/5QrjekAdRL877imW8)
+
+![Map to the Doctoral Training Centre](/assets/map.png)
