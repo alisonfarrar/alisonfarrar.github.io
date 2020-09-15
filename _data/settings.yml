@@ -16,10 +16,9 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-- {icon: 'instagram', link: 'https://instagram.com/soyalison'}
 - {icon: 'envelope', link: 'mailto:alison.e.farrar@gmail.com'}
+- {icon: 'twitter', link: 'https://twitter.com/alisonefarrar'}
+- {icon: 'instagram', link: 'https://instagram.com/soyalison'}
 - {icon: 'book', link: 'https://www.goodreads.com/user/show/38821028-alison'}
 # - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
